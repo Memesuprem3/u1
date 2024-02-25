@@ -1,6 +1,6 @@
 /* Grundläggande stilar */
 body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Playfair Display', serif; 
     margin: 0;
     padding: 0;
     padding-bottom: 100px; /* Kombinerad padding */
@@ -147,7 +147,7 @@ nav.home-page #home a {
 /* Formulär styling */
 form {
     .main-content {
-        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-family: 'Playfair Display', serif; 
         display: flex;
         flex-direction: column;
         align-items: center;
